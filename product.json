@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "product_name": "Elegant Silk Saree",
+        "image": "img/shree1.jpg",
+        "product_code": "1000200PM",
+        "type": "Cloths",
+        "price": 35
+    },
+
+      {
+        "id": 9,
+        "product_name": "Premum Elegant Silk Saree",
+        "image": "img/shree2.jpg",
+        "product_code": "1000200PM",
+        "type": "Cloths",
+        "price": 32
+    },
+
+    {
+        "id": 8,
+        "product_name": "Women's Classic Kameez",
+        "image": "img/cloth1.jpg",
+        "product_code": "2000300AM",
+        "type": "Cloths",
+        "price": 17
+    },
+
+     {
+        "id": 10,
+        "product_name": "Women's Classic primemum Kameez",
+        "image": "img/cloth2.jpg",
+        "product_code": "2000300AM",
+        "type": "Cloths",
+        "price": 19
+    },
+
+     {
+        "id": 10,
+        "product_name": "Women's Classic primemum Kameez",
+        "image": "img/cloth3.jpg",
+        "product_code": "2000300AM",
+        "type": "Cloths",
+        "price": 15
+    },
+
+    {
+        "id": 1,
+        "product_name": "Elegant Silk Saree",
+        "image": "img/shree3.jpg",
+        "product_code": "1000200PM",
+        "type": "Cloths",
+        "price": 36
+    },
+
+    {
+        "id": 3,
+        "product_name": "Hipster Fit Vintage Fade Jeans",
+        "image": "img/pant1.jpg",
+        "product_code": "3000400PM",
+        "type": "Men's Pant",
+        "price": 13
+    },
+    {
+        "id": 4,
+        "product_name": "Velvet Matte Neauthy",
+        "image": "img/cos1.jpg",
+        "product_code": "4000500AM",
+        "type": "Cosmetic",
+        "price": 21
+    },
+    {
+        "id": 5,
+        "product_name": "Men's Classic primemum T-Shirt",
+        "image": "img/tshirt1.jpg",
+        "product_code": "5000600PM",
+        "type": "T-Shirt",
+        "price": 1000
+    },
+    {
+        "id": 6,
+        "product_name": "Men's primemum T-Shirt",
+        "image": "img/tshirt2.jpg",
+        "product_code": "6000500AM",
+        "type": "T-Shirt",
+        "price": 1000
+    }
+]
